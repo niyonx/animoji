@@ -432,11 +432,18 @@ export default [
     animeLink: 'https://myanimelist.net/anime/11771/Kuroko_no_Basket',
   },
   {
-    animeEmoji: '😤 💪🏽 🤵🏻 🔪',
+    animeEmoji: '😤 💪🏽 🤵🏻 🔪 🤤',
     animeName: 'Kuroshitsuji Movie: Book of the Atlantic (2017)',
     animeYear: 2017,
     animeLink:
       'https://myanimelist.net/anime/31812/Kuroshitsuji_Movie__Book_of_the_Atlantic',
+  },
+  {
+    animeEmoji: '🤵 🔪 ⚔️ 🏰',
+    animeName: 'Kuroshitsuji (Black Butler)',
+    animeYear: 2008,
+    animeLink:
+      'https://myanimelist.net/anime/4898/Kuroshitsuji',
   },
   {
     animeEmoji: '💫 👼🏼 🌟 👊🏼',
